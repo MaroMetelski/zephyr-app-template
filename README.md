@@ -8,7 +8,7 @@ This assumes SDK and all prerequisites are met. See Zephyr's [Getting Started Gu
 # get the sample
 $ git clone https://github.com/MaroMetelski/zephyr-app.git && cd zephyr-app
 
-# set up python virtual environment (here virtualenvwrapper is used)
+# [OPTIONAL] set up python virtual environment (here virtualenvwrapper is used)
 $ mkvirtualenv zephyr-app
 
 # Initialize west workspace *below* app. This will place all modules in current directory.
