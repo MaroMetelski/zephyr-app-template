@@ -6,7 +6,7 @@ This assumes SDK and all prerequisites are met. See Zephyr's [Getting Started Gu
 
 ```bash
 # get the sample
-$ git clone https://github.com/MaroMetelski/zephyr-app.git && cd zephyr-app
+$ git clone https://github.com/MaroMetelski/zephyr-app-template.git && cd zephyr-app-template
 
 # [OPTIONAL] set up python virtual environment (here virtualenvwrapper is used)
 $ mkvirtualenv zephyr-app
